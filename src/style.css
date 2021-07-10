@@ -1,0 +1,30 @@
+.countries{
+    text-align: center;
+}
+
+.countries__item{
+    list-style: none;
+}
+
+.countries__searcher{
+    margin-top: 30px;
+   text-align: center;
+    width: 450px;
+}
+
+.countries__descr{
+    justify-content: center;
+    padding: 25px 40px;
+    display: flex;
+    list-style: none;
+}
+
+.countries__img{
+    display: block;
+    width: 500px;
+    margin-left: 50px;
+}
+
+.countries__info{
+    text-align: start;
+}
